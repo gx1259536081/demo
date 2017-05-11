@@ -5,6 +5,7 @@ int main()
 {
   cout << "hello,world." << endl;
   cout << "hello,C++." << endl;
+  cout << "hello" << endl;
   
   return 1;
 }
